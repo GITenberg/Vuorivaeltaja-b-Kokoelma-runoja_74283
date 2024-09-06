@@ -1,0 +1,41 @@
+_repo: Vuorivaeltaja-b-Kokoelma-runoja_74283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Larin-Kyösti
+    aliases:
+    - Kyösti, Larin
+    - Larsson, Karl Gustaf
+    - Larson, Karl Gustaf
+    - Larin-Kyosti
+    - Larson, Gösta
+    - Larson, Gosta
+    - Larson, Kaarlo Kyösti
+    - Larson, Kyösti
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '45809'
+    url: http://www.gutenberg.org/2009/agents/45809
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+    - https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti
+description: ''
+gutenberg_issued: '2024-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74283'
+language: fi
+pgterms:marc905: 20230515050129larinkysti
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bVihtori Kosonen, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Vuorivaeltaja : $b Kokoelma runoja'
+url: http://www.gutenberg.org/ebooks/74283
